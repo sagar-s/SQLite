@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="add">Add Book</string>
+    <string name="get_all_books">Get All Books</string>
+    <string name="getBook">Get Book</string>
+    <string name="getAll">Get All Books</string>
+    <string name="title_activity_add_book">AddBook</string>
+</resources>
